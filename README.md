@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vulici
+- 👋 Hi, I’m Vlad
 - 👀 I’m interested in all things tech, emphasis on coding and project management
 - 🌱 I’m currently learning too much
 - 💞️ I’m looking to collaborate on interesting project ideas
